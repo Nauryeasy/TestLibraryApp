@@ -1,0 +1,2 @@
+class ToMainMenuException(Exception):
+    pass
